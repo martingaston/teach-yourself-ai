@@ -19,6 +19,10 @@ Meanwhile, if you've never met a yak you didn't think could do with a shave:
 - python via [mise-en-place](https://mise.jdx.dev/)
 - [jupyterlab](https://jupyter.org/) via [pipx](https://github.com/pypa/pipx)
 
+## books
+
+- [How AI Works: From Sorcery To Science](https://nostarch.com/how-ai-works) - Ronald T. Kneusel
+
 ## math
 
 - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra) - Coursera / DeepLearning.ai
@@ -31,3 +35,4 @@ Meanwhile, if you've never met a yak you didn't think could do with a shave:
 
 - [Attention Is All You Need (2017)](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 - [On The Opportunities And Risks Of Foundation Models](https://arxiv.org/abs/2108.0725)
+- [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180)
